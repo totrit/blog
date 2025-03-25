@@ -1,6 +1,6 @@
 ---
 title: 人工智能洪流中社畜们的前景和应对
-date: 2025-03-22 23:35:00 +1100
+date: 2025-03-24 23:35:00 +1100
 categories: [Life]
 tags: [ai, work, job, robotics, ubi, game, vr]
 ---
