@@ -1,6 +1,6 @@
 ---
 title: Arduino Experiment - Percussion Lock
-date: 2025-04-27 23:35:00 +1100
+date: 2025-04-27 20:00:00 +1000
 categories: [Life]
 tags: [circuit, arduino, robotics]
 ---
@@ -13,7 +13,7 @@ Now coming to project 12, I've decied not to follow the idea in the book. Instea
 
 See video below for the idea:
 
-[![Arduino Uno Experiment - Percussion Secret](https://www.youtube.com/shorts/VU5ztTpm1ms/0.jpg)](https://www.youtube.com/shorts/VU5ztTpm1ms)
+[![Arduino Uno Experiment - Percussion Secret](https://img.youtube.com/vi/VU5ztTpm1ms/0.jpg)](https://www.youtube.com/shorts/VU5ztTpm1ms)
 
 - Any percussion can be used as the secret
 - When the right percussion is input, it'll unlock. At this point the green LED will be ON and the servo motor will turn
